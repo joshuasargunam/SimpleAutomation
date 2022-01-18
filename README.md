@@ -10,3 +10,7 @@ Improvements:
 1. test script can be made to run in different browsers
 2. many OOPS concepts like inheritance, object and classes could be used
 
+Steps to run the test
+1. clone this repository
+2. Right click main class and select Run 'Main' 
+
