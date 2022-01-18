@@ -33,10 +33,5 @@ public class Main {
 
         driver.findElement(By.cssSelector("[data-testid='select_addressMetaSelector']")).sendKeys("Interactive");
 
-//        Select address = new Select(driver.findElement(By.cssSelector("[data-testid='select_addressMetaSelector']")));
-//        address.selectByVisibleText("Interactive Investor");
-
-//        Interactive Investor
-
     }
 }
